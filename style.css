@@ -62,5 +62,6 @@
     color: white;
     text-align: center;
     border-bottom: 1px solid yellow;
+    text-shadow: 2px 2px 4px #000000;
    
   }
